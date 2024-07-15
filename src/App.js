@@ -1,12 +1,11 @@
 import './App.css';
+import Quize from './components/Quize';
+
 
 function App() {
   return (
     <>
-    <h1>
-
-      hellow
-    </h1>
+    <Quize/>
     </>
   );
 }
